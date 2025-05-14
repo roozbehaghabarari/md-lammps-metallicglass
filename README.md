@@ -3,7 +3,7 @@ This repository contains a complete Molecular Dynamics (MD) simulation of the Zr
 
 ## Overview
 
-This project simulates and investigates the thermal and structural evolution of the Zr₄₇Cu₄₆Al₇ metallic glass using Molecular Dynamics in LAMMPS. By replicating a realistic thermal cycle—including heating to 2100K, equilibration, and controlled cooling to 300K—the simulation provides insights into the atomic behavior of this ternary metallic glass. A combination of advanced post-processing techniques is employed to analyze short- and medium-range order (via RDF), local atomic environments (via Voronoi tessellation), and effective atomic radii (via surface mesh volume estimation). All analyses and visualizations were conducted using OVITO.
+This project simulates and investigates the thermal and structural evolution of the Zr₄₇Cu₄₆Al₇ metallic glass using Molecular Dynamics in LAMMPS. By replicating a realistic thermal cycle—including heating to 2100 K, equilibration, and controlled cooling to 300 K—the simulation provides insights into the atomic behavior of this ternary metallic glass. A combination of advanced post-processing techniques is employed to analyze short- and medium-range order (via RDF), local atomic environments (via Voronoi tessellation), and effective atomic radii (via surface mesh volume estimation). All analyses and visualizations were conducted using OVITO.
 This repository is ideal for researchers and students exploring glassy metals, MD simulations, or post-processing workflows in computational materials science.
 
 ## Repository Structure
@@ -40,7 +40,7 @@ Each folder contains the necessary files to run, analyze, and interpret the mole
 
 ## Documentation
 
-The accompanying report document.pdf provides a detailed explanation of the simulation methodology, including:
+The accompanying report DOCUMENT.pdf provides a detailed explanation of the simulation methodology, including:
 
     Simulation box setup
 
