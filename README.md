@@ -8,20 +8,9 @@ This repository is ideal for researchers and students exploring glassy metals, M
 
 ## Repository Structure
 
-md-lammps-metallicglass/
-│
-├── document.pdf
-│  ↳ Complete simulation report (methodology, analysis, figures)
-│
-├── lammps-script/
-│  ├── input_ZrCuAl.lmp           ↳ Main LAMMPS input script
-│  └── ZrCuAl.lammps.eam          ↳ EAM potential file for Zr–Cu–Al system
-│
-├── lammps-dumps/
-│  ├── Melting.xyz                ↳ Dump file during heating phase (300K → 2100K)
-│  ├── 2100Equilibrium.xyz        ↳ Dump file after equilibration at 2100K
-│  ├── Cooling.xyz                ↳ Dump file during cooling phase (2100K → 300K)
-│  └── 300Equilibrium.xyz         ↳ Final dump file at 300K
+lammps-script/          → LAMMPS input script and EAM potential file for ZrCuAl simulation  
+lammps-dumps/           → Output dump files from heating, cooling, and equilibration phases  
+document.pdf            → Full simulation report with methodology, analysis, and figures 
 
 
 
