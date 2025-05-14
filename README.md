@@ -1,0 +1,2 @@
+# md-lammps-metallicglass
+This repository contains a complete Molecular Dynamics (MD) simulation of the Zr₄₇Cu₄₆Al₇ metallic glass system using LAMMPS. The project includes simulation scripts, atomic configuration outputs, and a detailed report analyzing structural and thermal behavior through RDF, Voronoi tessellation, and atomic radius estimation. All results were post-processed and visualized using OVITO.
