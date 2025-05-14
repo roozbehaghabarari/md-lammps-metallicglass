@@ -8,11 +8,11 @@ This repository is ideal for researchers and students exploring glassy metals, M
 
 ## Repository Structure
 
-lammps-script/          → LAMMPS input script and EAM potential file for ZrCuAl simulation  
-lammps-dumps/           → Output dump files from heating, cooling, and equilibration phases  
-document.pdf            → Full simulation report with methodology, analysis, and figures 
+    lammps-script/          → LAMMPS input script and EAM potential file for ZrCuAl simulation  
+    lammps-dumps/           → Output dump files from heating, cooling, and equilibration phases  
+    DOCUMENT.pdf            → Full simulation report with methodology, analysis, and figures 
 
-
+Each folder contains the necessary files to run, analyze, and interpret the molecular dynamics simulation of Zr₄₇Cu₄₆Al₇ metallic glass using LAMMPS and post-processing tools.
 
 ## Simulation Features
 
@@ -74,4 +74,4 @@ For any questions, suggestions, or collaboration opportunities:
 
 ## License
 
-This repository is intended for academic and educational purposes only. If you refer to or reuse any part of this work, please credit the original author.
+This repository is intended for academic and educational purposes only. If you refer to or reuse any part of this work, please credit the author.
