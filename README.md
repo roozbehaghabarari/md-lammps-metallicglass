@@ -9,10 +9,10 @@ This repository is ideal for researchers and students exploring glassy metals, M
 ## Repository Structure
 
     lammps-script/          → LAMMPS input script and EAM potential file for ZrCuAl simulation  
-    lammps-snapshots/       → Selected screenshots from simulation dump files  
+    lammps-results/       → Selected visual outputs: snapshots, animations, and analysis results  
     DOCUMENT.pdf            → Full simulation report with methodology, analysis, and figures 
 
-Each folder contains the necessary files to run, analyze, and interpret the molecular dynamics simulation of Zr₄₇Cu₄₆Al₇ metallic glass using LAMMPS and post-processing tools. Due to GitHub's file size limitations, the full LAMMPS output dump files could not be uploaded. Instead, selected snapshots and visualizations from these dump files are provided in the lammps-snapshots/ folder to illustrate the simulation results and structural evolution.
+Each folder contains the necessary files to run, analyze, and interpret the molecular dynamics simulation of Zr₄₇Cu₄₆Al₇ metallic glass using LAMMPS and post-processing tools. Due to GitHub's file size restrictions, the full LAMMPS dump files could not be uploaded. Instead, the lammps-results/ folder contains representative snapshots, animations, and processed outputs that effectively demonstrate the key findings and structural evolution of the simulation.
 
 ## Simulation Features
 
