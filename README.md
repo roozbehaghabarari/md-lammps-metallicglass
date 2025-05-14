@@ -74,4 +74,4 @@ For any questions, suggestions, or collaboration opportunities:
 
 ## License
 
-This repository is intended for academic and educational purposes. If you reference or build upon this work in your own projects, please ensure proper attribution to the original author.
+This repository is intended for academic and educational purposes. If you reference or build upon this work in your own projects, please ensure proper attribution to the author.
